@@ -1,0 +1,20 @@
+
+body{
+    
+}
+
+table{
+    border: 1px solid red;
+    width: 400px;
+    height:400px
+}
+
+
+td{
+    background-color: #22bd654d;
+    text-align: center;
+    font-family: serif;
+    font-size: 26px;
+    width: 25%;
+    height: 25%;
+}
